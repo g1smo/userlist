@@ -1,0 +1,19 @@
+.btn-add-user {
+    bottom: 0px;
+}
+.content {
+    margin-top: 15px;
+}
+
+.content .panel > .panel-body {
+    min-height: 250px;
+}
+
+.btn-user-delete {
+    margin-right: 10px;
+}
+
+h3.user-new {
+    color: gray;
+    margin-top: 5px;
+}
